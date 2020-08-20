@@ -1,6 +1,6 @@
 # Define a method that multiplies the frequencies of the periods, commas, hyphens, semicolons, question marks, 
-and exclamation points in a given string and returns the product. If any punctuation does not occur, don't include it in the product, 
-i.e., don't multiply by zero!
+# and exclamation points in a given string and returns the product. If any punctuation does not occur, don't include it in the product, 
+# i.e., don't multiply by zero!
 
 def punctuation(sentence)
 
